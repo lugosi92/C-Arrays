@@ -1,6 +1,6 @@
 package TEMA_4;
 
-public class Ejercici_4_1 {
+public class Ejercici_4_1_tres_tablas {
 
 	public static void main(String[] args) {
 		// Crea tres tablas de cinco elementos: la primera de enteros, la segunda de doubles y la tercera

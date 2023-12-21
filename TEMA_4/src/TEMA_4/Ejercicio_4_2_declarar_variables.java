@@ -1,6 +1,6 @@
 package TEMA_4;
 
-public class Ejercicio_4_2 {
+public class Ejercicio_4_2_declarar_variables {
 
 	public static void main(String[] args) {
 		// Construye una tabla de 10 elementos del tipo que quieras. Declara tres variables de tabla que
